@@ -1,4 +1,4 @@
-## Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
+# Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
 # AIM:
 To write a program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 
@@ -93,6 +93,7 @@ print("Specificity:", specificity)
 ```
 
 # Output:
-image
+<img width="793" height="490" alt="Screenshot 2026-11-19 153535" src="https://github.com/user-attachments/assets/45d843d2-2856-4c53-855c-9f83a740a450" />
+
 # Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
